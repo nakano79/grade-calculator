@@ -38,8 +38,12 @@ public per(String name, int stunum, double ff, double fs, double sf, double ss, 
         public void setsf(Double sf){
             this.sf = sf;
         }
-        public void setss(Double ss) { this.ss = ss; }
-        public void settf(Double tf) { this.tf = tf; }
+        public void setss(Double ss) {
+            this.ss = ss;
+        }
+        public void settf(Double tf) {
+            this.tf = tf; 
+        }
         public void setts(Double ts){
             this.ts = ts;
         }
