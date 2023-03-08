@@ -61,7 +61,7 @@ public per(String name, int stunum, double ff, double fs, double sf, double ss, 
         }
 }
 
-public class cal2 {
+public class cal {
     static ArrayList<per> pers = new ArrayList<>();
     public static void add(){
         Scanner input = new Scanner(System.in);
